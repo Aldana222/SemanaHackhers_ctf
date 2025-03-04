@@ -11,8 +11,10 @@ O si prefieres descargar solo el binario:
 wget https://github.com/Aldana222/SemanaHackhers_ctf/raw/main/dist/reto
 chmod +x reto
 ./reto
+
 2-Ejecutar el binario
 ./reto
+
 3-Encuentra la flag y valídala! 🔑
 
 🕵️ Hints (Pistas)
